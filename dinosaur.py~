@@ -24,8 +24,8 @@ black = (0, 0, 0)
 font = pygame.font.Font(None, 36)
 
 # 載入圖片
-dinosaur_img = pygame.image.load("dinosaur.png")
-cactus_img = pygame.image.load("cactus.png")
+dinosaur_img = pygame.image.load("C:\Python\ChatGPTdinosaur\dinosaur.png")
+cactus_img = pygame.image.load("C:\Python\ChatGPTdinosaur\cactus.png")
 
 # 設定物體位置
 dinosaur_x = 50
